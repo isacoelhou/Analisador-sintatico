@@ -9,7 +9,7 @@ print(formatted_content)
 
 import pandas as pd
 
-file_path = 'comp.xlsx'  
+file_path = 'tabela_comp.xlsx'  
 df = pd.read_excel(file_path)  
 
 grammar_matrix = df.fillna("").values.tolist()
