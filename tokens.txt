@@ -10,7 +10,7 @@ id
 _bool
 id
 =
-_false
+_true
 ;
 _float
 id
@@ -47,8 +47,7 @@ _seliga
 (
 “
 str
-"
-|
+”
 )
 ;
 id
@@ -62,8 +61,9 @@ _seliga
 (
 “
 str
-"
-|
+”
+,
+id
 )
 ;
 id
@@ -74,7 +74,7 @@ _false
 }
 id
 =
-id
+_pot
 (
 id
 ,
