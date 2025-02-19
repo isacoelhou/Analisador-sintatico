@@ -41,6 +41,10 @@ id
 num
 *
 id
+&
+id
+>
+num
 )
 {
 _seliga

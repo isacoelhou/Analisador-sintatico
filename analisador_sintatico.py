@@ -89,7 +89,9 @@ tabela = {
         '(': ['sinc']
     },
     '<ids>': {
-        'id': ['id', '<ids>'],
+        'id': ['id', '<fechap>']
+    },
+    '<fechap>': {
         ')': ['ε']
     },
     '<receba>': {
